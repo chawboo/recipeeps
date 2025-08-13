@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553994724373",
+    "project_id": "recipeeps",
+    "storage_bucket": "recipeeps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553994724373:android:e778cc9743d07c30825a1c",
+        "android_client_info": {
+          "package_name": "com.example.recipeeps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_XrX5rZTB7uT2ffStHt_ytb4Qdr6LZJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
